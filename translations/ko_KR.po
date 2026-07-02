@@ -1,0 +1,288 @@
+# Korean translation for PebbleOS (community language pack)
+# msgids must match resources/normal/base/lang/tintin.pot exactly.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-07-02 00:00+0000\n"
+"Last-Translator: Korean community language pack\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Name: 한국어\n"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "Alarms"
+msgstr "알람"
+
+msgid "Alarm"
+msgstr "알람"
+
+msgid "New Alarm"
+msgstr "새 알람"
+
+msgid "Alarm Deleted"
+msgstr "알람 삭제됨"
+
+msgid "Watchfaces"
+msgstr "시계 화면"
+
+msgid "Health"
+msgstr "건강"
+
+msgid "Weather"
+msgstr "날씨"
+
+msgid "Calendar"
+msgstr "캘린더"
+
+msgid "Bluetooth"
+msgstr "블루투스"
+
+msgid "Display"
+msgstr "화면"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Snooze"
+msgstr "다시 알림"
+
+msgid "Snoozed"
+msgstr "다시 알림 설정됨"
+
+msgid "Dismiss"
+msgstr "지우기"
+
+msgid "Dismiss All"
+msgstr "모두 지우기"
+
+msgid "Call Back"
+msgstr "다시 걸기"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Tomorrow"
+msgstr "내일"
+
+msgid "Now"
+msgstr "지금"
+
+msgid "Quiet Time"
+msgstr "방해 금지"
+
+msgid "Date & Time"
+msgstr "날짜 및 시간"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Done"
+msgstr "완료"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Airplane Mode"
+msgstr "비행기 모드"
+
+msgid "Backlight"
+msgstr "백라이트"
+
+msgid "Certification"
+msgstr "인증"
+
+msgid "Change Time"
+msgstr "시간 변경"
+
+msgid "Charging"
+msgstr "충전 중"
+
+msgid "Fully Charged"
+msgstr "충전 완료"
+
+msgid "Every Day"
+msgstr "매일"
+
+msgid "Once"
+msgstr "한 번"
+
+msgid "Weekdays"
+msgstr "평일"
+
+msgid "Weekends"
+msgstr "주말"
+
+msgid "Factory Reset"
+msgstr "공장 초기화"
+
+msgid "Shut Down"
+msgstr "종료"
+
+msgid "Information"
+msgstr "정보"
+
+msgid "Legal"
+msgstr "법적 고지"
+
+msgid "Intensity"
+msgstr "강도"
+
+msgid "No events"
+msgstr "일정 없음"
+
+msgid "On"
+msgstr "켬"
+
+msgid "Off"
+msgstr "끔"
+
+msgid "Reminder"
+msgstr "미리 알림"
+
+msgid "Reminders"
+msgstr "미리 알림"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Steps"
+msgstr "걸음"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "Text Size"
+msgstr "글자 크기"
+
+msgid "Timezone"
+msgstr "시간대"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Thu"
+msgstr "목"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "8월"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Jan"
+msgstr "1월"
+
+msgid "Feb"
+msgstr "2월"
+
+msgid "Mar"
+msgstr "3월"
+
+msgid "Apr"
+msgstr "4월"
+
+msgid "Jun"
+msgstr "6월"
+
+msgid "Jul"
+msgstr "7월"
+
+msgid "Aug"
+msgstr "8월"
+
+msgid "Sep"
+msgstr "9월"
+
+msgid "Oct"
+msgstr "10월"
+
+msgid "Nov"
+msgstr "11월"
+
+msgid "Dec"
+msgstr "12월"
